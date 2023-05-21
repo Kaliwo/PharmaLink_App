@@ -7,17 +7,20 @@ export function SignInPrompt({greeting, onClick}) {
         The contract says: <span className="greeting">{greeting}</span>
       </h1>
       <h3>
-        Welcome to NEAR!
+        Welcome to PharmaLink!
       </h3>
       <p>
-        Your contract is storing a greeting message in the NEAR blockchain. To
-        change it you need to sign in using the NEAR Wallet. It is very simple,
-        just use the button below.
+      You are assured of the safety of your medical data.
+      Decentralization and integration of patient medical 
+      records in subsidiaries of community pharmacies made easy. 
+      acility-Facility, Professional-Professional (peer to peer) 
+      medical record documentation with consensus. (With Blockchain)!.
       </p>
       <p>
-        Do not worry, this app runs in the test network ("testnet"). It works
-        just like the main network ("mainnet"), but using NEAR Tokens that are
-        only for testing!
+      Pharmalink is a health tech solution that explores patient medical 
+      records/data in a bid to improve health care delivery. The solution 
+      is initially designed for community pharmacies and health professionals 
+      specifically pharmacists.
       </p>
       <br/>
       <p style={{ textAlign: 'center' }}>
